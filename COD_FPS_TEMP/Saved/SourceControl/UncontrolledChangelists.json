@@ -5,6 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/Game/BPs/Characters/BP_CharacterCore.uasset",
+				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/Game/BPs/Characters/BP_Player.uasset",
+				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/Game/BPs/Characters/BP_PlayerTPS.uasset",
+				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/Game/Materials/SimpleToonShader.uasset",
+				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/Game/Shaders/Parents/OutlineWorldShader.uasset",
+				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/Game/Shaders/Parents/PBR_CelShader.uasset",
+				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/Game/Shaders/Parents/PBR_CelShaderTest.uasset",
+				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/Game/Shaders/MI_CelShadeGlobalTest.uasset",
+				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/Game/Shaders/MI_CelShaderPBR.uasset",
+				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/Game/Shaders/MI_WorldOutline.uasset",
+				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/Characters/UE5_Mannequins/Materials/Instances/Manny_Toon/MI_Manny_01_Toon.uasset",
+				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/Characters/UE5_Mannequins/Materials/Instances/Manny_Toon/MI_Manny_02_Toon.uasset",
+				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/TT/PYK4YHVR1I67OOQQJWOR7I.uasset",
+				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/4N/9M5TE0KOZO87WUDUQEDIS5.uasset",
 				"N:/FPS/Neep fps 2/FPS_Neep/COD_FPS_TEMP/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
