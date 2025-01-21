@@ -1,0 +1,5 @@
+
+*.log
+*.pth
+*.bin
+/COD_FPS_TEMP/Saved
