@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"A:/Work/Unreal/Projects/FPS_Neep/Project Repo/COD_FPS_TEMP/Content/Game/BPs/Characters/BP_CharacterCore.uasset",
+				"A:/Work/Unreal/Projects/FPS_Neep/Project Repo/COD_FPS_TEMP/Content/Game/BPs/Characters/BP_Player.uasset",
 				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/__ExternalActors__/Game/Levels/Dariam_Level/7/IM/XP2GR777W527I5X6HDJ81K.uasset",
 				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/__ExternalActors__/Game/Levels/Dariam_Level/5/SW/QNHQU9H2IEXZX861I22OY8.uasset",
 				"A:/Work/Unreal/Projects/FPS_Neep/COD_FPS_TEMP/Content/__ExternalActors__/Game/Levels/Dariam_Level/6/PG/SK5CN1XFTHDW2Z1XPEQ8JT.uasset",
