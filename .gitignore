@@ -1,0 +1,17 @@
+
+*.log
+*.pth
+*.bin
+/COD_FPS_TEMP/Saved
+/COD_FPS_TEMP/Saved
+/COD_FPS_TEMP/Saved
+/COD_FPS_TEMP/Saved
+/COD_FPS_TEMP/Saved
+/COD_FPS_TEMP/Saved/Config
+/COD_FPS_TEMP/Saved/Config/CrashReportClient
+/COD_FPS_TEMP/Saved
+/COD_FPS_TEMP/Intermediate
+/COD_FPS_TEMP/Intermediate/PipInstall
+/COD_FPS_TEMP/Intermediate/PipInstall/Lib
+/COD_FPS_TEMP/Saved/Logs
+*.log
